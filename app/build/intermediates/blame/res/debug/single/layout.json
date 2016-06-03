@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/register.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/register.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/view_loading_media_chooser.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/view_loading_media_chooser.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/activity_home_media_chooser.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/activity_home_media_chooser.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/tools.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/tools.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/view_grid_bucket_item_media_chooser.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/view_grid_bucket_item_media_chooser.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/view_grid_layout_media_chooser.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/view_grid_layout_media_chooser.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/view_grid_item_media_chooser.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/view_grid_item_media_chooser.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/texiao.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/texiao.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/view_header_bar_media_chooser.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/view_header_bar_media_chooser.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/work_station.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/work_station.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/video_edit.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/video_edit.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/home.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/home.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/sendmail.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/sendmail.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/layout/set.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/layout/set.xml"
+    }
+]

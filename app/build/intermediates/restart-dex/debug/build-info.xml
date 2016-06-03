@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="9279399409715" >
+
+    <task
+        name="javac"
+        duration="2230" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="544" />
+    <task
+        name="verifier"
+        duration="25" />
+
+    <artifact
+        location="/home/bear/AndroidStudioProjects/supercut/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="9279399409715" >
+        <artifact
+            location="/home/bear/AndroidStudioProjects/supercut/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

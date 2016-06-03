@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/button_get.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/button_get.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/button_filter.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/button_filter.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/button_ok.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/button_ok.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/tab_unselected.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/tab_unselected.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/tab_selector.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/tab_selector.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/button_new_project.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/button_new_project.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/selector_video_button.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/selector_video_button.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/button_cut.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/button_cut.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/button_setting.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/button_setting.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/button_up.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/button_up.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/button_title.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/button_title.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/button_back.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/button_back.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/tab_selected.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/tab_selected.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/button_workstation.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/button_workstation.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/button_help.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/button_help.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/button_delet.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/button_delet.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/selector_check.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/selector_check.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable/selector_camera_button.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable/selector_camera_button.xml"
+    }
+]

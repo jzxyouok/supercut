@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/allb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/allb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/deletewy.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/deletewy.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lvjingyw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/lvjingyw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lvjingb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/lvjingb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/fengetiao.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/fengetiao.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/error0.jpg",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/error0.jpg"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/performb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/performb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/error.jpg",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/error.jpg"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ok.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/ok.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gerenb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/gerenb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gongzuoshi_g.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/gongzuoshi_g.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/xiangce.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/xiangce.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gongjub.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/gongjub.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/camera_blue.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/camera_blue.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/titleyw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/titleyw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/titlew.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/titlew.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_w.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/setting_w.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/okb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/okb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/allyb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/allyb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/delete.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/delete.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_g.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/add_g.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gongzuoshi_w.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/gongzuoshi_w.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/point_selected.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/point_selected.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cameraw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/cameraw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/deleteb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/deleteb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lvjingwy.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/lvjingwy.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/empty_photo.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/empty_photo.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/point.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/point.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gerenw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/gerenw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cutwy.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/cutwy.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cut.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/cut.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/all.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/all.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/geren.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/geren.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/title.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/title.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/helpw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/helpw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/okw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/okw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/play0.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/play0.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/zhuanchang.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/zhuanchang.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/zhuanchangb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/zhuanchangb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/titleb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/titleb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gongjubeijing1.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/gongjubeijing1.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/performw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/performw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lvjingw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/lvjingw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_b.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/add_b.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/users.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/users.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cutb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/cutb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/helpb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/helpb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/setting_b.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/setting_b.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lvjing.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/lvjing.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/xiangceb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/xiangceb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/deleteyw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/deleteyw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jianhei.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/jianhei.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gongjuw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/gongjuw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gongju.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/gongju.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/xiangcew.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/xiangcew.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/zhizhen.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/zhizhen.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/deletew.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/deletew.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gongzuoshi_b.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/gongzuoshi_b.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/deletebwy.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/deletebwy.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cutyw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/cutyw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cutw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/cutw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/allw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/allw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/camera.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/camera.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_w.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/add_w.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/perform.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/perform.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/deletebb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/deletebb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jianhei_right.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/jianhei_right.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/titlewy.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-hdpi/titlewy.png"
+    }
+]

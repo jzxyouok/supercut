@@ -1,0 +1,126 @@
+package com.slwb.supercut;
+
+import android.graphics.Bitmap;
+import android.graphics.Bitmap.Config;
+import android.graphics.Canvas;
+import android.graphics.Matrix;
+import android.media.MediaMetadataRetriever;
+
+import wseemann.media.FFmpegMediaMetadataRetriever;
+
+public class Thumbnail {	//略缩图
+	private Bitmap picture;
+    FFmpegMediaMetadataRetriever retriever;
+    int seconds,num;
+    public void setPath(String filepath){
+        retriever= new FFmpegMediaMetadataRetriever();
+        retriever.setDataSource(filepath);
+
+    }
+
+	public Bitmap getThumbnail(String filename){
+
+        retriever= new FFmpegMediaMetadataRetriever();
+        retriever.setDataSource(filename);  
+        // 取得视频的长度(单位为毫秒)  
+        String time = retriever.extractMetadata(FFmpegMediaMetadataRetriever.METADATA_KEY_DURATION);
+
+        // 取得视频的长度(单位为秒)
+        seconds = Integer.valueOf(time) / 1000;
+        picture = retriever.getFrameAtTime(1,MediaMetadataRetriever.OPTION_CLOSEST_SYNC);//获取第一秒的图片
+        picture=zoomImage(picture);//将第一秒的图片的大小转换为160*90
+        
+        if(seconds<=60)//60秒之内每2秒一张图片
+        {// 得到每一秒时刻的bitmap比如第二秒,第三秒
+            for (int i = 2; i <=seconds; i+=2) {  
+                Bitmap bitmap = retriever.getFrameAtTime(i*1000000,MediaMetadataRetriever.OPTION_CLOSEST_SYNC);
+                bitmap=zoomImage(bitmap);//将每一秒的图片的大小转换为160*90
+                picture=ToConformBitmap(picture,bitmap);
+                /*String path = Environment.getExternalStorageDirectory()+"/Pictures"+ File.separator + i + ".jpg";  
+                FileOutputStream fos = null;  
+                try {  
+                    fos = new FileOutputStream(path);  
+                    bitmap.compress(CompressFormat.JPEG, 80, fos);  
+                    fos.close();  
+                } catch (Exception e) {  
+                    e.printStackTrace();  
+                }这里是把每一秒的图片放到手机中的文件夹的代码*/
+            }
+        }
+        else//60秒之外每三秒一张图片
+        {// 得到每一秒时刻的bitmap比如第四秒,第七秒
+            for (int i = 4; i <=seconds; i=i+3) {  
+                Bitmap bitmap = retriever.getFrameAtTime(i*1000000,MediaMetadataRetriever.OPTION_CLOSEST_SYNC);
+                zoomImage(bitmap);//将每一秒的图片的大小转换为160*90
+                picture=ToConformBitmap(picture,bitmap);
+            }
+        }
+		
+		return picture;
+	}
+
+    public Bitmap getFrameOn(int OntimeMs){
+        Bitmap frame;
+
+        frame=retriever.getFrameAtTime(OntimeMs*1000,MediaMetadataRetriever.OPTION_CLOSEST_SYNC);
+        return frame;
+    }
+    public int getDuration(String filepath){
+        FFmpegMediaMetadataRetriever retriever= new FFmpegMediaMetadataRetriever();
+        retriever.setDataSource(filepath);
+        String time = retriever.extractMetadata(FFmpegMediaMetadataRetriever.METADATA_KEY_DURATION);
+        //获得想要的毫秒
+        num = Integer.valueOf(time);
+        return num;
+    }
+
+	
+	//将两张图片合成一张图片
+	private Bitmap ToConformBitmap(Bitmap background, Bitmap foreground) {
+        if( background == null ) {  
+            return null;  
+         }  
+  
+         int bgWidth = background.getWidth();  
+         int bgHeight = background.getHeight();  
+         //int bgWidth =background.getWidth()*background;  
+         //int bgHeight = 90;  
+         int fgWidth = foreground.getWidth();  
+         int fgHeight = foreground.getHeight();
+         //create the new blank bitmap 创建一个新的和SRC长度宽度一样的位图   
+         Bitmap newbmp = Bitmap.createBitmap(bgWidth+fgWidth, bgHeight, Config.RGB_565); 
+         Canvas cv = new Canvas(newbmp);  
+         //draw bg into  
+         cv.drawBitmap(background, 0, 0, null);//在 0，0坐标开始画入bg  
+         //draw fg into  
+         cv.drawBitmap(foreground, bgWidth, 0, null);//在 0，0坐标开始画入fg ，可以从任意位置画入
+         //save all clip  
+         cv.save(Canvas.ALL_SAVE_FLAG);//保存  
+         //store  
+         cv.restore();//存储  
+         return newbmp; 
+    }
+	
+	
+	//缩放图片的方法
+	public Bitmap zoomImage(Bitmap bgimage) {	 
+		 
+		// 获取这个图片的宽和高		 
+		int width = bgimage.getWidth(); 	 
+		int height = bgimage.getHeight();
+				 
+		// 创建操作图片用的matrix对象		 
+		Matrix matrix = new Matrix(); 
+		 
+		// 计算缩放率，新尺寸除原始尺寸		 
+		//float scaleWidth = ((float) 160) / width; 		 
+		float scaleHeight = ((float) 90) / height;
+	 
+		// 缩放图片动作 
+		matrix.postScale(scaleHeight, scaleHeight);  
+		Bitmap bitmap = Bitmap.createBitmap(bgimage, 0, 0,width,height,  matrix, true); 
+		
+		return bitmap;
+	}
+	
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="79b7c6ebf7caf1143f811716e8d0550a8ac803ba">
+        <dex dex="/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3510eb14130bd25f254cbfe94da9ce88992a6582/classes.dex" />
+    </item>
+    <item
+        jar="/home/bear/AndroidStudioProjects/supercut/app/libs/additionnal.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_967a46c0574ba19033b0d8d50b96113450580d6b/classes.dex" />
+    </item>
+    <item
+        jar="/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="c2e42646de07ab474e56e8006f6a0bb2e2372c98">
+        <dex dex="/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6f67b0662adea5cf6c3dccb3411efac6c516648f/classes.dex" />
+    </item>
+    <item
+        jar="/home/bear/AndroidStudioProjects/supercut/app/libs/isoviewer-1.0-RC-27.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="f374d6079dfe0fcabe619a8b18337faefd4d0b0c">
+        <dex dex="/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/transforms/dex/debug/folders/1000/2/isoviewer-1.0-RC-27_58ea2a592408ee3723a48f1c6d5bcf9e0540b35b/classes.dex" />
+    </item>
+    <item
+        jar="/home/bear/AndroidStudioProjects/supercut/app/libs/picasso-2.4.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/transforms/dex/debug/folders/1000/2/picasso-2.4.0_cd42d91a38769af9a44870e4c2a0cb59e63b186d/classes.dex" />
+    </item>
+    <item
+        jar="/home/bear/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_55f95e280d5435125f5ed3e3e7cef4811dd90dd7/classes.dex" />
+    </item>
+    <item
+        jar="/home/bear/AndroidStudioProjects/supercut/app/libs/mail.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_d9c375b7715c1667ccb2eaf9b2fc8259b9068178/classes.dex" />
+    </item>
+    <item
+        jar="/home/bear/AndroidStudioProjects/supercut/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3_02f4e7d743e40634b537d8112f9411044d9ad39d/classes.dex" />
+    </item>
+    <item
+        jar="/home/bear/AndroidStudioProjects/supercut/app/libs/activation.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_a687f4b1246f5f889d3b35245e9e0e99191a5863/classes.dex" />
+    </item>
+
+</items>

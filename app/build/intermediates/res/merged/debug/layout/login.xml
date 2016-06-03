@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:stretchColumns="1"
+	android:background="@color/black"
+	>
+<TableRow>
+<TextView
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:text="   用户名:"
+	android:textSize="16sp"
+	android:textColor="@color/white"
+	/>	
+
+<EditText
+    android:id="@+id/username_zhuce"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:hint="请填写登录邮箱"
+    android:inputType="textEmailAddress"
+    android:selectAllOnFocus="true"
+    android:textColor="@color/white" />
+
+</TableRow>
+<TableRow>
+
+<TextView
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:text="   密码:"
+	android:textSize="16sp"	
+	android:textColor="@color/white"
+	/>
+<!-- android:inputType="numberPassword"表明只能接收数字密码 -->
+
+<EditText
+    android:id="@+id/password"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:inputType="numberPassword" />
+
+</TableRow>
+
+<!-- inputType="number"表明是数值输入框 -->
+
+
+<!-- inputType="phone"表明是输入电话号码的输入框 -->
+
+<CheckBox
+    android:id="@+id/remember"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="记住密码" />
+
+<Button
+    android:id="@+id/denglu"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="登录"
+    android:textColor="@color/white" />
+
+<Button
+    android:id="@+id/button_register"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="注册"
+    android:textColor="@color/white" />
+
+</TableLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:stretchColumns="1"
+	android:background="@color/black"
+	>
+<TableRow>
+<TextView
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:textSize="16sp"
+	/>	
+
+<Button
+    android:id="@+id/button_Personal_Information"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:text="个人信息"
+    android:textColor="@color/white" />
+
+</TableRow>
+<TableRow>
+<TextView
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:textSize="16sp"	
+	/>
+<Button
+	android:id="@+id/button_Telephone_Number"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_alignLeft="@+id/button_Personal_Information"
+	android:layout_below="@+id/button_Personal_Information"
+	android:text="电话号码" 
+	android:textColor="@color/white"/>
+
+</TableRow>
+
+<Button
+	android:id="@+id/button_Advance_Feedback"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_alignLeft="@+id/button_Personal_Information"
+	android:layout_below="@+id/button_Personal_Information"
+	android:layout_marginTop="76dp"
+	android:text="意见反馈"
+	android:textColor="@color/white" />
+
+<Button
+	android:id="@+id/button_Quit"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_alignLeft="@+id/button_Advance_Feedback"
+	android:layout_alignParentBottom="true"
+	android:layout_marginBottom="25dp"
+	android:text="退出帐号"
+	android:textColor="@color/white" />
+
+</TableLayout>

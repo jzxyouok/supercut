@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/anim/in_bottom_to_top.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/anim/in_bottom_to_top.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/anim/in_lefttoright.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/anim/in_lefttoright.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/anim/in_righttoleft.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/anim/in_righttoleft.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/anim/out_top_to_bottom.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/anim/out_top_to_bottom.xml"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/anim/out_righttoleft.xml",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/anim/out_righttoleft.xml"
+    }
+]

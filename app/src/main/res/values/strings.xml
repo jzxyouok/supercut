@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">剪影</string>
+     <string name="swt">剪影</string>
+    <string name="action_settings">Settings</string> 
+ 	<string name="image_url">Image Url</string>
+
+ 	<string name="image"> 图片 </string>
+    <string name="video"> 视频 </string>
+    <string name="done"> Done </string>
+    <string name="images_tab"> 图片 </string>
+    <string name="videos_tab"> 视频 </string>
+    <string name="max_limit_reach_error"> Max limit 10 file. </string>
+    <string name="max_limit_file"> Max limit </string>
+    <string name="please_wait_text"> Please wait</string>
+    <string name="refreshing"> Refreshing</string>
+    <string name="file_size_exeeded"> The file size exceeds the maximum limit of </string>
+    <string name="selected_file_size">  Selected media size is : </string>
+    <string name="mb"> MB</string>
+    <string name="plaese_select_file"> Please select a file.</string>
+    <string name="file"> file. </string>
+    <string name="files"> files. </string>
+    <string name="no_media_file_available"> No media file available.</string>
+</resources>

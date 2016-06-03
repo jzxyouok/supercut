@@ -1,0 +1,39 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion '21.1.2'
+
+    defaultConfig {
+        applicationId "com.slwb.supercut"
+        minSdkVersion 17
+        targetSdkVersion 19
+
+        ndk {
+            moduleName "ffmpeg_codec"//c库的名字
+            ldLibs "log", "z", "m","android","jnigraphics"
+            abiFilters "arm64-v8a","armeabi","armeabi-v7a"
+        }
+        sourceSets.main{
+            jni.srcDirs=[]//禁用自动ndk
+            jniLibs.srcDir "src/main/libs"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.1.0'
+    compile files('libs/activation.jar')
+    compile files('libs/additionnal.jar')
+    compile files('libs/isoviewer-1.0-RC-27.jar')
+    compile files('libs/mail.jar')
+    compile files('libs/picasso-2.4.0.jar')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+}

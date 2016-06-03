@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="fromDegrees" format="float|reference" />
+    <attr name="toDegrees" format="float|reference" />
+    <attr name="childSize" format="dimension|reference" />
+    <declare-styleable name="CircleFlowIndicator">
+        <attr name="activeColor" format="color" />
+        <attr name="inactiveColor" format="color" />
+        <attr name="radius" format="dimension" />
+		<attr name="centered" format="boolean" />
+		<attr name="fadeOut" format="integer" />
+		<attr name="inactiveType">
+			<flag name="stroke" value="0" />
+			<flag name="fill" value="1" />
+		</attr>
+		<attr name="activeType">
+			<flag name="stroke" value="0" />
+			<flag name="fill" value="1" />
+		</attr>
+		<attr name="circleSeparation" format="dimension" />
+		<attr name="activeRadius" format="dimension" />
+    </declare-styleable>   
+     <declare-styleable name="ViewFlow">
+        <attr name="sidebuffer" format="integer" />
+    </declare-styleable>
+    
+
+    <!-- 进度条 -->
+    <declare-styleable name="NumberProgress">
+        <!-- 文字大小 -->
+        <attr name="textSize" format="dimension"/>
+        <!-- 文字颜色 -->
+        <attr name="textColor" format="color"/>
+        <!-- reached的高度 -->
+        <attr name="reachedHeight" format="dimension"/>
+        <!-- reached的颜色 -->
+        <attr name="reachedColor" format="color"/>
+        <!-- unReached的高度 -->
+        <attr name="unReachedHeight" format="dimension"/>
+        <!-- unReached的颜色 -->
+        <attr name="unReachedColor" format="color"/>
+        <!-- 当前进度 -->
+        <attr name="currentProgress" format="integer"/>
+        <!-- 总进度 -->
+        <attr name="maxProgress" format="integer"/>
+        <!-- unProgress颜色 -->
+        <attr name="unProgressColor" format="color"/>
+        <!-- progress颜色 -->
+        <attr name="progressColor" format="color"/>
+        <!-- progress宽度 -->
+        <attr name="progressWidth" format="dimension"/>
+    </declare-styleable>
+</resources>

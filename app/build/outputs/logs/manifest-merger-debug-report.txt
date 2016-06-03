@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:7:2-64
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:7:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:9:22-78
+uses-sdk
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:10:5-12:41
+	android:targetSdkVersion
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:12:9-38
+		INJECTED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:11:9-35
+		INJECTED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:14:5-54:19
+	android:label
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:18:9-44
+activity#com.slwb.supercut.Home
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:22:10-46
+	android:label
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:20:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.slwb.supercut.MainWork
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:28:9-30:60
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:29:13-37
+activity#com.slwb.supercut.Login
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:31:9-33:60
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:32:13-34
+activity#com.slwb.supercut.PersonInformation
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:34:9-36:60
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:35:13-46
+activity#com.slwb.supercut.Register
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:37:9-39:60
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:38:13-37
+activity#com.slwb.supercut.WorkStation
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:40:10-42:60
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:41:13-40
+activity#com.slwb.supercut.SendEmailActivity
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:43:10-45:60
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:44:13-45
+activity#com.slwb.mediachooser.activity.BucketHomeFragmentActivity
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:46:9-49:20
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:47:13-85
+activity#com.slwb.mediachooser.activity.HomeFragmentActivity
+ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:50:9-53:20
+	android:name
+		ADDED from /home/bear/AndroidStudioProjects/supercut/app/src/main/AndroidManifest.xml:51:13-79

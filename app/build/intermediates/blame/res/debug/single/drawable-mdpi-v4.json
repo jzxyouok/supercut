@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/leftithumb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/leftithumb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_video_selected_from_media_chooser_header_bar.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/ic_video_selected_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_video.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/ic_video.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/left_end.gif",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/left_end.gif"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/right_end.gif",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/right_end.gif"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_navigation_left_from_media_chooser_header_bar.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/ic_navigation_left_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_video_unselect_from_media_chooser_header_bar.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/ic_video_unselect_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/rightthumb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/rightthumb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/performw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/performw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/performb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/performb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bgh.gif",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/bgh.gif"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/leader.gif",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/leader.gif"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_loading.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/ic_loading.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/leftthumb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/leftthumb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_selected_check_box_from_media_chooser_header_bar.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/ic_selected_check_box_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_camera_unselect_from_media_chooser_header_bar.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/ic_camera_unselect_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/okb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/okb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_unselected_check_box_from_media_chooser_header_bar.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/ic_unselected_check_box_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bgfader.gif",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/bgfader.gif"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/okw.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/okw.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/rightithumb.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/rightithumb.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_camera_selected_from_media_chooser_header_bar.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/ic_camera_selected_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/centre_bar.gif",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/centre_bar.gif"
+    },
+    {
+        "merged": "/home/bear/AndroidStudioProjects/supercut/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/bear/AndroidStudioProjects/supercut/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
